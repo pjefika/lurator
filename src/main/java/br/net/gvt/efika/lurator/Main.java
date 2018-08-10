@@ -5,6 +5,7 @@
  */
 package br.net.gvt.efika.lurator;
 
+
 import br.net.gvt.efika.lurator.dao.TTMonitorDAO;
 import br.net.gvt.efika.lurator.model.TTMonitor;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
